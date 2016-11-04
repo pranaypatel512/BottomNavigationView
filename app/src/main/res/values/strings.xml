@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="str_facebook">Facebook</string>
+    <string name="str_twitter">Twitter</string>
+    <string name="str_instagram">Instagram</string>
+    <string name="str_github">Github</string>
+    <string name="str_stackoverflow">Stackoverflow</string>
+</resources>

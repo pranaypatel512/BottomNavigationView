@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_github"
+        android:enabled="true"
+        android:icon="@mipmap/ic_github"
+        android:title="@string/str_github"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_stackoverflow"
+        android:enabled="true"
+        android:icon="@mipmap/ic_stackoverflow"
+        android:title="@string/str_stackoverflow"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_facebook"
+        android:enabled="true"
+        android:icon="@mipmap/ic_facebook"
+        android:title="@string/str_facebook"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_twitter"
+        android:enabled="true"
+        android:icon="@mipmap/ic_twitter"
+        android:title="@string/str_twitter"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/menu_instagram"
+        android:enabled="true"
+        android:icon="@mipmap/ic_instagram"
+        android:title="@string/str_instagram"
+        app:showAsAction="ifRoom" />
+</menu>
